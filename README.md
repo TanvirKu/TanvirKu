@@ -3,6 +3,13 @@
 ####  A **PhD Student** (🎓) in [Computer Science, Georgia State University (GSU)](https://csds.gsu.edu/) Currently serving as a  **Graduate Research Assitant** (🔬), Data Engineering Lab and [TCV Fellow](https://tcv.gsu.edu/), GSU  under the supervison of [Dr Esra Akbas](https://cas.gsu.edu/profile/esra-akbas/). 
 #### 📚 **Interests**: Graph Neural Networks (GNNs), Network Analysis, NLP
 
+## 🗞️ News
+
+- 🔥 December 2024: One paper Accepted at IEEE BigData, 2024 *"Understanding Online Platform Usage of Extremist Groups via Graph Analytics"*
+- 📦 June 2025: Released new dataset processing pipeline for social media graph event forecasting
+- 🏆 May 2025: Won the Best Poster Award at GSU Graduate Research Conference
+- 📄 April 2025: Submitted paper on *G-CREWE: Graph Compression With Embedding for Network Alignment*
+
 ## 🎓 Education
 
 **Ph.D. in Computer Science**  
