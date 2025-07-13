@@ -5,10 +5,11 @@
 
 ## 🗞️ News
 
-- 🔥 December 2024: _One paper Accepted_  **Understanding Online Platform Usage of Extremist Groups via Graph Analytics** at IEEE BigData, 2024
+- 🎉 December 2024: _One paper Accepted_ - **Understanding Online Platform Usage of Extremist Groups via Graph Analytics** at IEEE BigData, 2024
 - 🏆 October 2024: Won the Fall 2024 Fraser Travel Award [link](https://csds.gsu.edu/2024/10/29/fall-2024-fraser-travel-award-winners-announced/)
-- 🔥 August 2024:  _One paper Accepted_  **HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing** at DSAA, 2024
-- 🔥 May 2024:  _One paper Accepted_  **Tackling Oversmoothing in GNN via Graph Sparsification** at ECML-PKDD, 2024
+- 🔥 September 2024: Presented my paper **Tackling Oversmoothing in GNN via Graph Sparsification** at ECML-PKDD'2024, Vilnius 🇱🇹
+- 🎉 August 2024:  _One paper Accepted_  - **HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing** at DSAA, 2024
+- 🎉 May 2024:  _One paper Accepted_  - **Tackling Oversmoothing in GNN via Graph Sparsification** at ECML-PKDD, 2024
 
 
 ## 🎓 Education
