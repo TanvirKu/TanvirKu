@@ -5,7 +5,7 @@
 
 ## 🗞️ News
 
-- 🔥 December 2024: One paper Accepted at IEEE BigData, 2024 *"Understanding Online Platform Usage of Extremist Groups via Graph Analytics"*
+- 🔥 December 2024: One paper Accepted at IEEE BigData, 2024 **Understanding Online Platform Usage of Extremist Groups via Graph Analytics**
 - 📦 June 2025: Released new dataset processing pipeline for social media graph event forecasting
 - 🏆 May 2025: Won the Best Poster Award at GSU Graduate Research Conference
 - 📄 April 2025: Submitted paper on *G-CREWE: Graph Compression With Embedding for Network Alignment*
