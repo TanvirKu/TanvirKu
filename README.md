@@ -1,9 +1,9 @@
 # 👋 hi, I'm Tanvir Hossain
 
-🎓 PhD Student in Computer Science, Georgia State University  
-🔬 Graduate Research Assitant, 
+🎓 # **PhD Student** in Computer Science, Georgia State University  
+🔬 # **Graduate Research Assitant**, 
 Data Engineering Lab and TCV Fellow, Georgia State University  
-📚 Interests: Graph Neural Networks (GNNs), Network Analysis, NLP
+📚 # **Interests**: Graph Neural Networks (GNNs), Network Analysis, NLP
 
 <!--
 **TanvirKu/TanvirKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
