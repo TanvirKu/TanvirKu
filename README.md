@@ -3,6 +3,18 @@
 ####  A **PhD Student** (🎓) in [Computer Science, Georgia State University (GSU)](https://csds.gsu.edu/) Currently serving as a  **Graduate Research Assitant** (🔬), Data Engineering Lab and [TCV Fellow](https://tcv.gsu.edu/), GSU  under the supervison of [Dr Esra Akbas](https://cas.gsu.edu/profile/esra-akbas/). 
 #### 📚 **Interests**: Graph Neural Networks (GNNs), Network Analysis, NLP
 
+## 🎓 Education
+
+**Ph.D. in Computer Science**  
+[Georgia State University](https://www.gsu.edu/) · 2022 – Present  
+Advisor: Dr. Esra Akbas  
+Research Areas: Graph Neural Networks, Network Analysis, NLP
+
+**B.Sc. in Computer Science & Engineering**  
+[Khulna University]([https://www.du.ac.bd/](https://ku.ac.bd/)) · 2012 – 2017 
+Thesis: Temporal information extraction from textual data using long short term memory recurrent neural network. [Link](https://www.researchgate.net/profile/Tanvir-Hossain-17/publication/345742017_Temporal_Information_Extraction_from_Textual_Data_using_Long_Short-term_Memory_Recurrent_Neural_Network/links/5fac38cfa6fdcc9389aae524/Temporal-Information-Extraction-from-Textual-Data-using-Long-Short-term-Memory-Recurrent-Neural-Network.pdf)
+
+
 <!--
 **TanvirKu/TanvirKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
