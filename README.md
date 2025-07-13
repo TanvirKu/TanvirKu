@@ -10,10 +10,13 @@
 Advisor: [Dr. Esra Akbas](https://scholar.google.com/citations?user=jlN9gEYAAAAJ&hl=en)  
 Research Areas: Graph Neural Networks, Network Analysis, NLP
 
+---
+
 **M.S in Computer Science**  
 [Georgia State University](https://www.gsu.edu/), United States, 2022 -2025  
 Advisor: Dr. Esra Akbas
 
+---
 
 **B.Sc. in Computer Science & Engineering**  
 [Khulna University](https://ku.ac.bd/), Bangladesh, 2012 – 2017   
