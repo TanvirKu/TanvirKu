@@ -37,6 +37,12 @@ Department of Computer Science, [Okahoma State University](https://cas.okstate.e
 - Led lab sessions for undergraduate courses (Theory of Computing, Object Oriented Programming, Numerical Analysis)  
 - Mentored students and graded assignments, quizzes, and exams
 
+**Lecturer**  
+Department of Computer Science and Engineering, City University, Bangladesh 
+📅 September 2017 – July 2021  
+- Taught undergraduate courses (Structured Programming , Numerical Analysis, Discrete Mathematics, Software Engineering)  
+- Mentored students and graded assignments, quizzes, and exams
+
 <!--
 **TanvirKu/TanvirKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
