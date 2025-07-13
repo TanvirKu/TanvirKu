@@ -1,7 +1,8 @@
 # 👋 hi, I'm Tanvir Hossain
 
-🎓 PhD Student in Computer Science  
-🔬 Researcher at the Data Engineering Lab (DELab), Georgia State University  
+🎓 PhD Student in Computer Science, Georgia State University  
+🔬 Graduate Research Assitant, 
+Data Engineering Lab and TCV Fellow, Georgia State University  
 📚 Interests: Graph Neural Networks (GNNs), Network Analysis, NLP
 
 <!--
