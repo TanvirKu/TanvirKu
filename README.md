@@ -10,6 +10,11 @@
 Advisor: [Dr. Esra Akbas](https://scholar.google.com/citations?user=jlN9gEYAAAAJ&hl=en)  
 Research Areas: Graph Neural Networks, Network Analysis, NLP
 
+**M.S in Computer Science**  
+[Georgia State University](https://www.gsu.edu/), United States, 2022 -2025  
+Advisor: [Dr. Esra Akbas](https://scholar.google.com/citations?user=jlN9gEYAAAAJ&hl=en)  
+
+
 **B.Sc. in Computer Science & Engineering**  
 [Khulna University](https://ku.ac.bd/), Bangladesh 2012 – 2017   
 Advisor: [SM Mohidul Islam](https://scholar.google.com/citations?user=Y-Hw7KUAAAAJ&hl=en) ( September 2016 - June 2017) and [Dr Md Zahidul Islam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=WpBYmZgAAAAJ) ( January 2016 - August 2016)  
