@@ -6,16 +6,16 @@
 ## 🎓 Education
 
 **Ph.D. in Computer Science**  
-[Georgia State University](https://www.gsu.edu/), United States, 2022 – Present  
+[Georgia State University](https://www.gsu.edu/), United States, 📅 2022 – Present  
 Advisor: [Dr. Esra Akbas](https://scholar.google.com/citations?user=jlN9gEYAAAAJ&hl=en)  
 Research Areas: Graph Neural Networks, Network Analysis, NLP
 
 **M.S in Computer Science**  
-[Georgia State University](https://www.gsu.edu/), United States, 2022 -2025  
+[Georgia State University](https://www.gsu.edu/), United States, 📅 2022 -2025  
 Advisor: Dr. Esra Akbas
 
 **B.Sc. in Computer Science & Engineering**  
-[Khulna University](https://ku.ac.bd/), Bangladesh, 2012 – 2017   
+[Khulna University](https://ku.ac.bd/), Bangladesh, 📅 2012 – 2017   
 Advisor: [SM Mohidul Islam](https://scholar.google.com/citations?user=Y-Hw7KUAAAAJ&hl=en) ( September 2016 - June 2017) and [Dr Md Zahidul Islam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=WpBYmZgAAAAJ) ( January 2016 - August 2016)  
 Thesis: Temporal information extraction from textual data using long short term memory recurrent neural network. [Link](https://www.researchgate.net/profile/Tanvir-Hossain-17/publication/345742017_Temporal_Information_Extraction_from_Textual_Data_using_Long_Short-term_Memory_Recurrent_Neural_Network/links/5fac38cfa6fdcc9389aae524/Temporal-Information-Extraction-from-Textual-Data-using-Long-Short-term-Memory-Recurrent-Neural-Network.pdf)
 
@@ -24,8 +24,7 @@ Thesis: Temporal information extraction from textual data using long short term 
 ## 💼 Experience
 
 **Graduate Research Assistant**  
-Data Engineering Lab (DELab) and [TCV](https://tcv.gsu.edu/), [Georgia State University](https://www.gsu.edu/)  
-📅 Aug 2022 – Present  
+Data Engineering Lab (DELab) and [TCV](https://tcv.gsu.edu/), [Georgia State University](https://www.gsu.edu/) 📅 Aug 2022 – Present    
 🔬 Supervisor: Dr. Esra Akbas  
 - Conducting research on Graph Neural Networks (GNNs), graph compression, and social network analysis  
 - Developed a graph decomposition-based GNN model to mitigate oversmoothing  
