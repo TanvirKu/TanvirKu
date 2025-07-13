@@ -11,7 +11,7 @@ Advisor: Dr. Esra Akbas
 Research Areas: Graph Neural Networks, Network Analysis, NLP
 
 **B.Sc. in Computer Science & Engineering**  
-[Khulna University]([https://www.du.ac.bd/](https://ku.ac.bd/)) · 2012 – 2017 
+[Khulna University]([https://www.du.ac.bd/](https://ku.ac.bd/)) · 2012 – 2017   
 Thesis: Temporal information extraction from textual data using long short term memory recurrent neural network. [Link](https://www.researchgate.net/profile/Tanvir-Hossain-17/publication/345742017_Temporal_Information_Extraction_from_Textual_Data_using_Long_Short-term_Memory_Recurrent_Neural_Network/links/5fac38cfa6fdcc9389aae524/Temporal-Information-Extraction-from-Textual-Data-using-Long-Short-term-Memory-Recurrent-Neural-Network.pdf)
 
 
