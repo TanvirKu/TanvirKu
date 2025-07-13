@@ -5,10 +5,11 @@
 
 ## 🗞️ News
 
-- 🔥 December 2024: One paper Accepted at IEEE BigData, 2024 **Understanding Online Platform Usage of Extremist Groups via Graph Analytics**
-- 📦 June 2025: Released new dataset processing pipeline for social media graph event forecasting
-- 🏆 May 2025: Won the Best Poster Award at GSU Graduate Research Conference
-- 📄 April 2025: Submitted paper on *G-CREWE: Graph Compression With Embedding for Network Alignment*
+- 🔥 December 2024: _One paper Accepted_  **Understanding Online Platform Usage of Extremist Groups via Graph Analytics** at IEEE BigData, 2024
+- 🏆 October 2024: Won the Fall 2024 Fraser Travel Award [link](https://csds.gsu.edu/2024/10/29/fall-2024-fraser-travel-award-winners-announced/)
+- 🔥 August 2024:  _One paper Accepted_  **HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing** at DSAA, 2024
+- 🔥 May 2024:  _One paper Accepted_  **Tackling Oversmoothing in GNN via Graph Sparsification** at ECML-PKDD, 2024
+
 
 ## 🎓 Education
 
