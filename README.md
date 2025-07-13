@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 hi, I'm Tanvir Hossain
+
+🎓 PhD Student in Computer Science  
+🔬 Researcher at the Data Engineering Lab (DELab), Georgia State University  
+📚 Interests: Graph Neural Networks (GNNs), Network Analysis, NLP
 
 <!--
 **TanvirKu/TanvirKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
