@@ -1,7 +1,7 @@
 # 👋 hi, I'm Tanvir Hossain
 
 ### 🎓 **PhD Student** in [Computer Science, Georgia State University (GSU)](https://csds.gsu.edu/)
-🔬 **Graduate Research Assitant**, Data Engineering Lab and TCV Fellow, Georgia State University  
+🔬 **Graduate Research Assitant**, Data Engineering Lab and [TCV Fellow](https://tcv.gsu.edu/), Georgia State University  
 📚 **Interests**: Graph Neural Networks (GNNs), Network Analysis, NLP
 
 <!--
