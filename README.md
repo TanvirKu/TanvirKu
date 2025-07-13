@@ -7,7 +7,7 @@
 
 **Ph.D. in Computer Science**  
 [Georgia State University](https://www.gsu.edu/) · 2022 – Present  
-Advisor: Dr. Esra Akbas  
+Advisor: [Dr. Esra Akbas](https://scholar.google.com/citations?user=jlN9gEYAAAAJ&hl=en)  
 Research Areas: Graph Neural Networks, Network Analysis, NLP
 
 **B.Sc. in Computer Science & Engineering**  
