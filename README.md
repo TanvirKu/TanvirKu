@@ -4,6 +4,8 @@
 ####  A **PhD Student** (🎓) in [Computer Science, Georgia State University (GSU)](https://csds.gsu.edu/) Currently serving as a  **Graduate Research Assitant** (🔬), Data Engineering Lab and [TCV Fellow](https://tcv.gsu.edu/), GSU  under the supervison of [Dr Esra Akbas](https://cas.gsu.edu/profile/esra-akbas/). 
 #### 📚 **Interests**: Graph Neural Networks (GNNs), Network Analysis, NLP
 
+---
+
 ## 🗞️ News
 
 - 🎉 December 2024: _One paper Accepted_ - **Understanding Online Platform Usage of Extremist Groups via Graph Analytics** at IEEE BigData, 2024
@@ -12,6 +14,7 @@
 - 🎉 August 2024:  _One paper Accepted_  - **HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing** at DSAA, 2024
 - 🎉 May 2024:  _One paper Accepted_  - **Tackling Oversmoothing in GNN via Graph Sparsification** at ECML-PKDD, 2024
 
+---
 
 ## 🎓 Education
 
@@ -49,6 +52,8 @@ Department of Computer Science, [Okahoma State University](https://cas.okstate.e
 Department of Computer Science and Engineering, [City University](https://cityuniversity.edu.bd/), Bangladesh 📅 September 2017 – July 2021    
 - Taught undergraduate courses (Structured Programming , Numerical Analysis, Discrete Mathematics, Software Engineering)  
 - Mentored students and graded assignments, quizzes, and exams
+
+---
 
 ## 📚 Selected Publications
 
