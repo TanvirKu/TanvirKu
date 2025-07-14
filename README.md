@@ -34,21 +34,19 @@ Thesis: Temporal information extraction from textual data using long short term 
 ## 💼 Experience
 
 **Graduate Research Assistant**  
-Data Engineering Lab (DELab) and [TCV](https://tcv.gsu.edu/), [Georgia State University](https://www.gsu.edu/) 📅 Aug 2022 – Present    
+Data Engineering Lab (DELab) and [TCV](https://tcv.gsu.edu/), [Georgia State University](https://www.gsu.edu/), United States 📅 Aug 2022 – Present      
 🔬 Supervisor: Dr. Esra Akbas  
 - Conducting research on Graph Neural Networks (GNNs), graph compression, and social network analysis  
 - Developed a graph decomposition-based GNN model to mitigate oversmoothing  
 
 
 **Graduate Teaching Assistant**  
-Department of Computer Science, [Okahoma State University](https://cas.okstate.edu/computer_science/) 
-📅 Aug 2021 – July 2022  
+Department of Computer Science, [Okahoma State University](https://cas.okstate.edu/computer_science/), United States 📅 Aug 2021 – July 2022    
 - Led lab sessions for undergraduate courses (Theory of Computing, Object Oriented Programming, Numerical Analysis)  
 - Mentored students and graded assignments, quizzes, and exams
 
 **Lecturer**  
-Department of Computer Science and Engineering, [City University](https://cityuniversity.edu.bd/), Bangladesh 
-📅 September 2017 – July 2021  
+Department of Computer Science and Engineering, [City University](https://cityuniversity.edu.bd/), Bangladesh 📅 September 2017 – July 2021    
 - Taught undergraduate courses (Structured Programming , Numerical Analysis, Discrete Mathematics, Software Engineering)  
 - Mentored students and graded assignments, quizzes, and exams
 
@@ -69,7 +67,7 @@ Department of Computer Science and Engineering, [City University](https://cityun
   **ICDM-MLoG 2022** 🎉   
   Proposes a structural-aware dedensification method to compress large-scale graphs while preserving embedding quality for downstream tasks.
 
-- **[Dygcl: Dynamic graph contrastive learning for event prediction](https://ieeexplore.ieee.org/abstract/document/10825046))**  
+- **[Dygcl: Dynamic graph contrastive learning for event prediction](https://ieeexplore.ieee.org/abstract/document/10825046)**  
   Muhammed Ifte Khairul Islam, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Esra Akbas   
   **IEEE Big Data 2024** 🎉   
   Proposes a structural-aware graph compression for temporal event prediction. 
