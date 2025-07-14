@@ -59,27 +59,27 @@ Department of Computer Science and Engineering, [City University](https://cityun
 
 - **[Tackling Oversmoothing in GNN via Graph Sparsification](https://doi.org/10.1007/978-3-031-70371-3_10)**  
   **Tanvir Hossain**, Khaled Mohammed Saifuddin, Muhammad Ifte Khairul Islam, Farhan Tanvir and Esra Akbas  
-  **[ECML PKDD 2024](https://ecmlpkdd.org/2024/)** 🎉  
+  **[ECML PKDD 2024](https://ecmlpkdd.org/2024/)** 🧠  
   Explores a graph decomposition approach to mitigate oversmoothing in GNNs using k-truss-based sparsification.
 
 - **[Understanding Online Platform Usage of Extremist Groups via Graph Analytics](https://ieeexplore.ieee.org/abstract/document/10825898)**  
   **Tanvir Hossain**, Esra Akbas, Anthony E Lemieux, Virginia Massignan  
-  **[IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)** 🎉   
+  **[IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)** 🧠   
   Analyzes behavioral patterns of extremist groups and impact of the influential actors using network analysis.
 
 - **[EnD: Enhanced Dedensification for Graph Compressing and Embedding](https://ieeexplore.ieee.org/abstract/document/10031109)**  
   **Tanvir Hossain**, Esra Akbas, Muhammad Ifte Khairul Islam  
-  **[ICDM-MLoG 2022](https://mlog-workshop.github.io/icdm22)** 🎉   
+  **[ICDM-MLoG 2022](https://mlog-workshop.github.io/icdm22)** 🧠   
   Proposes a structural-aware dedensification method to compress large-scale graphs while preserving embedding quality for downstream tasks.
 
 - **[Dygcl: Dynamic graph contrastive learning for event prediction](https://ieeexplore.ieee.org/abstract/document/10825046)**  
   Muhammed Ifte Khairul Islam, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Esra Akbas   
-  **[IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)** 🎉   
+  **[IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)** 🧠   
   Proposes a structural-aware graph compression for temporal event prediction.
 
 - **[HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing](https://ieeexplore.ieee.org/document/10722832)**  
   Farhan Tanvir, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Arunkumar Bagavathi, Esra Akbas  
-  **[DSAA 2024](https://dsaa2024.dsaa.co/)** 🎉   
+  **[DSAA 2024](https://dsaa2024.dsaa.co/)** 🧠   
   Develops is a triplet-based heterogeneous GNN that models drug–target–disease relationships for effective drug repurposing.
 
 <!--
