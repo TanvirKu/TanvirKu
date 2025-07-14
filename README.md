@@ -69,6 +69,10 @@ Department of Computer Science and Engineering, City University, Bangladesh
   **ICDM-MLoG 2022** 🎉   
   Proposes a structural-aware dedensification method to compress large-scale graphs while preserving embedding quality for downstream tasks.
 
+- **[Dygcl: Dynamic graph contrastive learning for event prediction](https://ieeexplore.ieee.org/abstract/document/10825046))**  
+  Muhammed Ifte Khairul Islam, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Esra Akbas 
+  **IEEE Big Data 2024** 🎉   
+  Proposes a structural-aware graph compression for temporal event prediction. 
 
 
 <!--
