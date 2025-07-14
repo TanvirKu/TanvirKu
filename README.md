@@ -75,8 +75,12 @@ Department of Computer Science and Engineering, [City University](https://cityun
 - **[Dygcl: Dynamic graph contrastive learning for event prediction](https://ieeexplore.ieee.org/abstract/document/10825046)**  
   Muhammed Ifte Khairul Islam, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Esra Akbas   
   **IEEE Big Data 2024** 🎉   
-  Proposes a structural-aware graph compression for temporal event prediction. 
+  Proposes a structural-aware graph compression for temporal event prediction.
 
+- **[HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing](https://ieeexplore.ieee.org/document/10722832)**  
+  Farhan Tanvir, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Arunkumar Bagavathi, Esra Akbas
+  **DSAA 2024** 🎉   
+  Develops is a triplet-based heterogeneous GNN that models drug–target–disease relationships for effective drug repurposing.
 
 <!--
 **TanvirKu/TanvirKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
