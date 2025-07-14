@@ -54,18 +54,18 @@ Department of Computer Science and Engineering, City University, Bangladesh
 ## 📚 Selected Publications
 
 - **[Tackling Oversmoothing in GNN via Graph Sparsification](https://doi.org/10.1007/978-3-031-70371-3_10)**  
-  *Tanvir Hossain*, Khaled Mohammed Saifuddin, Muhammad Ifte Khairul Islam, Farhan Tanvir and Esra Akbas
+  *Tanvir Hossain*, Khaled Mohammed Saifuddin, Muhammad Ifte Khairul Islam, Farhan Tanvir and Esra Akbas  
   *ECML-PKDD 2024* 🎉  
   Explores a graph decomposition approach to mitigate oversmoothing in GNNs using k-truss-based sparsification.
 
 - **[EnD: Enhanced Dedensification for Graph Compressing and Embedding](https://ieeexplore.ieee.org/abstract/document/10031109)**  
-  *Tanvir Hossain*, Esra Akbas, Muhammad Ifte Khairul Islam
-  *ICDM-MLoG*, 2022  
+  *Tanvir Hossain*, Esra Akbas, Muhammad Ifte Khairul Islam  
+  *ICDM-MLoG 2022 * 🎉   
   Proposes a structural-aware dedensification method to compress large-scale graphs while preserving embedding quality for downstream tasks.
 
 - **[Understanding Online Platform Usage of Extremist Groups via Graph Analytics](https://ieeexplore.ieee.org/abstract/document/10825898)**  
-  *Tanvir Hossain*, Esra Akbas, Anthony E Lemieux, Virginia Massignan
-  *IEEE Big Data*, 2024  
+  *Tanvir Hossain*, Esra Akbas, Anthony E Lemieux, Virginia Massignan  
+  *IEEE Big Data 2024* 🎉   
   Analyzes behavioral patterns of extremist groups and impact of the influential actors using network analysis.
 
 <!--
