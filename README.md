@@ -47,7 +47,7 @@ Department of Computer Science, [Okahoma State University](https://cas.okstate.e
 - Mentored students and graded assignments, quizzes, and exams
 
 **Lecturer**  
-Department of Computer Science and Engineering, City University, Bangladesh 
+Department of Computer Science and Engineering, [City University](https://cityuniversity.edu.bd/), Bangladesh 
 📅 September 2017 – July 2021  
 - Taught undergraduate courses (Structured Programming , Numerical Analysis, Discrete Mathematics, Software Engineering)  
 - Mentored students and graded assignments, quizzes, and exams
