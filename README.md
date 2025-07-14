@@ -78,7 +78,7 @@ Department of Computer Science and Engineering, [City University](https://cityun
   Proposes a structural-aware graph compression for temporal event prediction.
 
 - **[HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing](https://ieeexplore.ieee.org/document/10722832)**  
-  Farhan Tanvir, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Arunkumar Bagavathi, Esra Akbas
+  Farhan Tanvir, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Arunkumar Bagavathi, Esra Akbas  
   **DSAA 2024** 🎉   
   Develops is a triplet-based heterogeneous GNN that models drug–target–disease relationships for effective drug repurposing.
 
