@@ -63,7 +63,7 @@ Department of Computer Science and Engineering, City University, Bangladesh
   *ICDM-MLoG*, 2022  
   Proposes a structural-aware dedensification method to compress large-scale graphs while preserving embedding quality for downstream tasks.
 
-- **[Understanding Online Platform Usage of Extremist Groups via Graph Analytics](10.1109/BigData62323.2024.10825898)**  
+- **[Understanding Online Platform Usage of Extremist Groups via Graph Analytics](https://ieeexplore.ieee.org/abstract/document/10825898).**  
   *Tanvir Hossain*, Esra Akbas, Anthony E Lemieux, Virginia Massignan
   *IEEE Big Data*, 2024  
   Analyzes behavioral patterns of extremist groups and impact of the influential actors using network analysis.
