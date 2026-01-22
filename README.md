@@ -82,7 +82,7 @@ Department of Computer Science and Engineering, [City University](https://cityun
 - **[HeTAN: Heterogeneous Graph Triplet Attention Network for Drug Repurposing](https://ieeexplore.ieee.org/document/10722832)**  
   Farhan Tanvir, Khaled Mohammed Saifuddin, **Tanvir Hossain**, Arunkumar Bagavathi, Esra Akbas  
   **[DSAA 2024](https://dsaa2024.dsaa.co/)** 🧠   
-  Develops is a triplet-based heterogeneous GNN that models drug–target–disease relationships for effective drug repurposing.
+  Develops a triplet-based heterogeneous GNN that models drug–target–disease relationships for effective drug repurposing.
 
 <!--
 **TanvirKu/TanvirKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
